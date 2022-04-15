@@ -5,6 +5,7 @@ import java.util.HashMap;
 
 public class DemoQA1 {
 
+    // WAP to find output string based on key pressed in a basic phone
     public static void main(String[] args) {
         String input = "277774492664440558862777";
         System.out.println("Input String : "+input);
