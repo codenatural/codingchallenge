@@ -1,7 +1,8 @@
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class ImpactQADemo {
+public class KeypadKeysChallengeSol2 {
+    // ImpactQA - Swiggy
     public static void main(String[] args) {
         String input = "2777744";
         String[] combos = new String[]{"2","22","222","7","77","777","7777","4","44","444"};
