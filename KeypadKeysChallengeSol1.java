@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 
-public class DemoQA1 {
+public class KeypadKeysChallengeSol1 {
 
     // WAP to find output string based on key pressed in a basic phone
     public static void main(String[] args) {
